@@ -4,10 +4,8 @@
 - Java / Python / Go
 - ⚽ Football · 🎸 Rock · 🎮 Gaming · 🏃 Sports
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-
 ## 🖥️ Recently Activity
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#129](undefined) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 2. 🗣 Commented on [#127](https://github.com/jamesgeorge007/github-activity-readme/issues/127#issuecomment-3701625451) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
@@ -20,3 +18,8 @@
 9. ❌ Merged PR [#14074](undefined) in [alibaba/nacos](https://github.com/alibaba/nacos)
 10. 🗣 Commented on [#14071](https://github.com/alibaba/nacos/issues/14071#issuecomment-3694735447) in [alibaba/nacos](https://github.com/alibaba/nacos)
 <!--END_SECTION:activity-->
+
+## 📊 GitHub Stats
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)

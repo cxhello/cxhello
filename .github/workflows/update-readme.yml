@@ -16,6 +16,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Generate github activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 10
+
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -31,13 +38,6 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&theme=material-palenight
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate github activity
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          MAX_LINES: 10
 
       - name: Update README with recent activity
         run: |
