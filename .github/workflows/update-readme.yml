@@ -39,11 +39,10 @@ jobs:
         with:
           MAX_LINES: 10
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          commit_message: "⚡ Update README with recent activity"
-          branch: main
-          commit_user_name: github-actions[bot]
-          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+      - name: Update README with recent activity
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg README.md
+          git commit -m "⚡ Update README with recent activity" || exit 0
+          git push
