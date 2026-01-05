@@ -7,16 +7,16 @@
 ## 🖥️ Recently Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1](https://github.com/cxhello/daily-bot/issues/1) in [cxhello/daily-bot](https://github.com/cxhello/daily-bot)
-2. 🎉 Merged PR [#129](https://github.com/jamesgeorge007/github-activity-readme/pull/129) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#129](https://github.com/jamesgeorge007/github-activity-readme/pull/129#issuecomment-3703715553) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 💪 Opened PR [#129](https://github.com/jamesgeorge007/github-activity-readme/pull/129) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#127](https://github.com/jamesgeorge007/github-activity-readme/issues/127#issuecomment-3701625451) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-6. 🔒 Closed issue [#73](https://github.com/ingokegel/jclasslib/issues/73) in [ingokegel/jclasslib](https://github.com/ingokegel/jclasslib)
-7. 🔒 Closed issue [#25](https://github.com/nacos-group/nacos-mcp-wrapper-python/issues/25) in [nacos-group/nacos-mcp-wrapper-python](https://github.com/nacos-group/nacos-mcp-wrapper-python)
-8. 🔒 Closed issue [#117](https://github.com/JuneAndGreen/sm-crypto/issues/117) in [JuneAndGreen/sm-crypto](https://github.com/JuneAndGreen/sm-crypto)
-9. 🔒 Closed issue [#21](https://github.com/AutismSuperman/git-commit-message-helper/issues/21) in [AutismSuperman/git-commit-message-helper](https://github.com/AutismSuperman/git-commit-message-helper)
-10. 🗣 Commented on [#14076](https://github.com/alibaba/nacos/issues/14076#issuecomment-3695886554) in [alibaba/nacos](https://github.com/alibaba/nacos)
+1. 🎉 Merged PR [#14087](https://github.com/alibaba/nacos/pull/14087) in [alibaba/nacos](https://github.com/alibaba/nacos)
+2. 🗣 Commented on [#1352](https://github.com/hiero-ledger/hiero-sdk-python/pull/1352#issuecomment-3708113495) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+3. 💪 Opened PR [#1352](https://github.com/hiero-ledger/hiero-sdk-python/pull/1352) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+4. ❌ Closed PR [#1340](https://github.com/hiero-ledger/hiero-sdk-python/pull/1340) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+5. 💪 Opened PR [#1340](https://github.com/hiero-ledger/hiero-sdk-python/pull/1340) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+6. 🗣 Commented on [#1339](https://github.com/hiero-ledger/hiero-sdk-python/issues/1339#issuecomment-3707959239) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+7. 💪 Opened PR [#14087](https://github.com/alibaba/nacos/pull/14087) in [alibaba/nacos](https://github.com/alibaba/nacos)
+8. ℹ️ Labeled issue [#1](https://github.com/cxhello/daily-bot/issues/1) in [cxhello/daily-bot](https://github.com/cxhello/daily-bot)
+9. 🎉 Merged PR [#129](https://github.com/jamesgeorge007/github-activity-readme/pull/129) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+10. 🗣 Commented on [#129](https://github.com/jamesgeorge007/github-activity-readme/pull/129#issuecomment-3703715553) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
