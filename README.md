@@ -7,16 +7,16 @@
 ## 🖥️ Recently Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/rafaljanicki/x-twitter-mcp-server/issues/7#issuecomment-3799928328) in [rafaljanicki/x-twitter-mcp-server](https://github.com/rafaljanicki/x-twitter-mcp-server)
-2. 💪 Opened PR [#8](https://github.com/rafaljanicki/x-twitter-mcp-server/pull/8) in [rafaljanicki/x-twitter-mcp-server](https://github.com/rafaljanicki/x-twitter-mcp-server)
-3. ❗ Opened issue [#7](https://github.com/rafaljanicki/x-twitter-mcp-server/issues/7) in [rafaljanicki/x-twitter-mcp-server](https://github.com/rafaljanicki/x-twitter-mcp-server)
-4. 🗣 Commented on [#6](https://github.com/rafaljanicki/x-twitter-mcp-server/pull/6#issuecomment-3799845622) in [rafaljanicki/x-twitter-mcp-server](https://github.com/rafaljanicki/x-twitter-mcp-server)
-5. 🎉 Merged PR [#6](https://github.com/rafaljanicki/x-twitter-mcp-server/pull/6) in [rafaljanicki/x-twitter-mcp-server](https://github.com/rafaljanicki/x-twitter-mcp-server)
-6. 🎉 Merged PR [#14356](https://github.com/alibaba/nacos/pull/14356) in [alibaba/nacos](https://github.com/alibaba/nacos)
-7. 💪 Opened PR [#14356](https://github.com/alibaba/nacos/pull/14356) in [alibaba/nacos](https://github.com/alibaba/nacos)
-8. 🎉 Merged PR [#14333](https://github.com/alibaba/nacos/pull/14333) in [alibaba/nacos](https://github.com/alibaba/nacos)
-9. 🎉 Merged PR [#14307](https://github.com/alibaba/nacos/pull/14307) in [alibaba/nacos](https://github.com/alibaba/nacos)
-10. 💪 Opened PR [#14333](https://github.com/alibaba/nacos/pull/14333) in [alibaba/nacos](https://github.com/alibaba/nacos)
+1. 🗣 Commented on [#8](https://github.com/rafaljanicki/x-twitter-mcp-server/pull/8#issuecomment-3806001801) in [rafaljanicki/x-twitter-mcp-server](https://github.com/rafaljanicki/x-twitter-mcp-server)
+2. 🗣 Commented on [#8](https://github.com/rafaljanicki/x-twitter-mcp-server/pull/8#issuecomment-3805992403) in [rafaljanicki/x-twitter-mcp-server](https://github.com/rafaljanicki/x-twitter-mcp-server)
+3. 🗣 Commented on [#7](https://github.com/rafaljanicki/x-twitter-mcp-server/issues/7#issuecomment-3799928328) in [rafaljanicki/x-twitter-mcp-server](https://github.com/rafaljanicki/x-twitter-mcp-server)
+4. 💪 Opened PR [#8](https://github.com/rafaljanicki/x-twitter-mcp-server/pull/8) in [rafaljanicki/x-twitter-mcp-server](https://github.com/rafaljanicki/x-twitter-mcp-server)
+5. ❗ Opened issue [#7](https://github.com/rafaljanicki/x-twitter-mcp-server/issues/7) in [rafaljanicki/x-twitter-mcp-server](https://github.com/rafaljanicki/x-twitter-mcp-server)
+6. 🗣 Commented on [#6](https://github.com/rafaljanicki/x-twitter-mcp-server/pull/6#issuecomment-3799845622) in [rafaljanicki/x-twitter-mcp-server](https://github.com/rafaljanicki/x-twitter-mcp-server)
+7. 🎉 Merged PR [#6](https://github.com/rafaljanicki/x-twitter-mcp-server/pull/6) in [rafaljanicki/x-twitter-mcp-server](https://github.com/rafaljanicki/x-twitter-mcp-server)
+8. 🎉 Merged PR [#14356](https://github.com/alibaba/nacos/pull/14356) in [alibaba/nacos](https://github.com/alibaba/nacos)
+9. 💪 Opened PR [#14356](https://github.com/alibaba/nacos/pull/14356) in [alibaba/nacos](https://github.com/alibaba/nacos)
+10. 🎉 Merged PR [#14333](https://github.com/alibaba/nacos/pull/14333) in [alibaba/nacos](https://github.com/alibaba/nacos)
 <!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
