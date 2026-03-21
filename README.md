@@ -1,7 +1,11 @@
 ## 👋 Hi, I'm Cuthbert
 
-- Backend engineer, learner
-- Java / Python / Go
+Nacos Committer [@alibaba](https://github.com/alibaba) | AI Coding Enthusiast | iOS Indie Dev
+
+- Open source contributor, focused on [Nacos](https://github.com/alibaba/nacos) multi-language SDK & cloud-native service discovery
+- Exploring AI-assisted coding workflows
+- Indie iOS developer, shipped [MomentGif](https://github.com/cxhello/MomentGif)
+- Java / Python / Go / Swift
 - ⚽ Football · 🎸 Rock · 🎮 Gaming · 🏃 Sports
 
 ## 🖥️ Recently Activity
