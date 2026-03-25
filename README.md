@@ -11,16 +11,16 @@ Nacos Committer [@alibaba](https://github.com/alibaba) | AI Coding Enthusiast | 
 ## 🖥️ Recently Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/nacos-group/nacos-cli/pull/31) in [nacos-group/nacos-cli](https://github.com/nacos-group/nacos-cli)
-2. 🗣 Commented on [#30](https://github.com/nacos-group/nacos-cli/pull/30#issuecomment-4110461942) in [nacos-group/nacos-cli](https://github.com/nacos-group/nacos-cli)
-3. 💪 Opened PR [#30](https://github.com/nacos-group/nacos-cli/pull/30) in [nacos-group/nacos-cli](https://github.com/nacos-group/nacos-cli)
-4. 🗣 Commented on [#14683](https://github.com/alibaba/nacos/issues/14683#issuecomment-4109077808) in [alibaba/nacos](https://github.com/alibaba/nacos)
-5. 🗣 Commented on [#14683](https://github.com/alibaba/nacos/issues/14683#issuecomment-4108971876) in [alibaba/nacos](https://github.com/alibaba/nacos)
-6. 🗣 Commented on [#14683](https://github.com/alibaba/nacos/issues/14683#issuecomment-4108922841) in [alibaba/nacos](https://github.com/alibaba/nacos)
-7. 🗣 Commented on [#14683](https://github.com/alibaba/nacos/issues/14683#issuecomment-4108804822) in [alibaba/nacos](https://github.com/alibaba/nacos)
-8. 🗣 Commented on [#14683](https://github.com/alibaba/nacos/issues/14683#issuecomment-4108638665) in [alibaba/nacos](https://github.com/alibaba/nacos)
-9. 🗣 Commented on [#14683](https://github.com/alibaba/nacos/issues/14683#issuecomment-4108594393) in [alibaba/nacos](https://github.com/alibaba/nacos)
-10. 🗣 Commented on [#14683](https://github.com/alibaba/nacos/issues/14683#issuecomment-4108250631) in [alibaba/nacos](https://github.com/alibaba/nacos)
+1. 🎉 Merged PR [#4](https://github.com/cxhello/nacos-sdk-proto/pull/4) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
+2. 💪 Opened PR [#4](https://github.com/cxhello/nacos-sdk-proto/pull/4) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
+3. ❌ Closed PR [#3](https://github.com/cxhello/nacos-sdk-proto/pull/3) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
+4. 🗣 Commented on [#3](https://github.com/cxhello/nacos-sdk-proto/pull/3#issuecomment-4118558901) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
+5. 💪 Opened PR [#3](https://github.com/cxhello/nacos-sdk-proto/pull/3) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
+6. ❌ Closed PR [#2](https://github.com/cxhello/nacos-sdk-proto/pull/2) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
+7. 🗣 Commented on [#2](https://github.com/cxhello/nacos-sdk-proto/pull/2#issuecomment-4118514984) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
+8. ❌ Closed PR [#1](https://github.com/cxhello/nacos-sdk-proto/pull/1) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
+9. 🗣 Commented on [#1](https://github.com/cxhello/nacos-sdk-proto/pull/1#issuecomment-4118433403) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
+10. 🎉 Merged PR [#30](https://github.com/nacos-group/nacos-cli/pull/30) in [nacos-group/nacos-cli](https://github.com/nacos-group/nacos-cli)
 <!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
