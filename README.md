@@ -11,16 +11,16 @@ Nacos Committer [@alibaba](https://github.com/alibaba) | AI Coding Enthusiast | 
 ## 🖥️ Recently Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15096](https://github.com/alibaba/nacos/pull/15096) in [alibaba/nacos](https://github.com/alibaba/nacos)
-2. 🎉 Merged PR [#15092](https://github.com/alibaba/nacos/pull/15092) in [alibaba/nacos](https://github.com/alibaba/nacos)
-3. 💪 Opened PR [#15092](https://github.com/alibaba/nacos/pull/15092) in [alibaba/nacos](https://github.com/alibaba/nacos)
-4. ❌ Closed PR [#15072](https://github.com/alibaba/nacos/pull/15072) in [alibaba/nacos](https://github.com/alibaba/nacos)
-5. ❌ Closed PR [#15089](https://github.com/alibaba/nacos/pull/15089) in [alibaba/nacos](https://github.com/alibaba/nacos)
-6. 🗣 Commented on [#15089](https://github.com/alibaba/nacos/pull/15089#issuecomment-4406601663) in [alibaba/nacos](https://github.com/alibaba/nacos)
-7. ❌ Closed PR [#15081](https://github.com/alibaba/nacos/pull/15081) in [alibaba/nacos](https://github.com/alibaba/nacos)
-8. 🗣 Commented on [#15081](https://github.com/alibaba/nacos/pull/15081#issuecomment-4406600665) in [alibaba/nacos](https://github.com/alibaba/nacos)
-9. 💪 Opened PR [#15089](https://github.com/alibaba/nacos/pull/15089) in [alibaba/nacos](https://github.com/alibaba/nacos)
-10. 🎉 Merged PR [#15083](https://github.com/alibaba/nacos/pull/15083) in [alibaba/nacos](https://github.com/alibaba/nacos)
+1. 💪 Opened PR [#15117](https://github.com/alibaba/nacos/pull/15117) in [alibaba/nacos](https://github.com/alibaba/nacos)
+2. 🎉 Merged PR [#15111](https://github.com/alibaba/nacos/pull/15111) in [alibaba/nacos](https://github.com/alibaba/nacos)
+3. 🎉 Merged PR [#15112](https://github.com/alibaba/nacos/pull/15112) in [alibaba/nacos](https://github.com/alibaba/nacos)
+4. 🎉 Merged PR [#15113](https://github.com/alibaba/nacos/pull/15113) in [alibaba/nacos](https://github.com/alibaba/nacos)
+5. 🎉 Merged PR [#15114](https://github.com/alibaba/nacos/pull/15114) in [alibaba/nacos](https://github.com/alibaba/nacos)
+6. 🎉 Merged PR [#15115](https://github.com/alibaba/nacos/pull/15115) in [alibaba/nacos](https://github.com/alibaba/nacos)
+7. 🎉 Merged PR [#15116](https://github.com/alibaba/nacos/pull/15116) in [alibaba/nacos](https://github.com/alibaba/nacos)
+8. 💪 Opened PR [#15116](https://github.com/alibaba/nacos/pull/15116) in [alibaba/nacos](https://github.com/alibaba/nacos)
+9. 💪 Opened PR [#15115](https://github.com/alibaba/nacos/pull/15115) in [alibaba/nacos](https://github.com/alibaba/nacos)
+10. 💪 Opened PR [#15114](https://github.com/alibaba/nacos/pull/15114) in [alibaba/nacos](https://github.com/alibaba/nacos)
 <!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
