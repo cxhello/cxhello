@@ -11,16 +11,16 @@ Nacos Committer [@alibaba](https://github.com/alibaba) | AI Coding Enthusiast | 
 ## 🖥️ Recently Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/cxhello/nacos-sdk-proto/pull/12) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
-2. 💪 Opened PR [#12](https://github.com/cxhello/nacos-sdk-proto/pull/12) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
-3. 🎉 Merged PR [#15117](https://github.com/alibaba/nacos/pull/15117) in [alibaba/nacos](https://github.com/alibaba/nacos)
-4. 🎉 Merged PR [#11](https://github.com/cxhello/nacos-sdk-proto/pull/11) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
-5. 💪 Opened PR [#11](https://github.com/cxhello/nacos-sdk-proto/pull/11) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
-6. 💪 Opened PR [#15117](https://github.com/alibaba/nacos/pull/15117) in [alibaba/nacos](https://github.com/alibaba/nacos)
-7. 🎉 Merged PR [#15111](https://github.com/alibaba/nacos/pull/15111) in [alibaba/nacos](https://github.com/alibaba/nacos)
-8. 🎉 Merged PR [#15112](https://github.com/alibaba/nacos/pull/15112) in [alibaba/nacos](https://github.com/alibaba/nacos)
-9. 🎉 Merged PR [#15113](https://github.com/alibaba/nacos/pull/15113) in [alibaba/nacos](https://github.com/alibaba/nacos)
-10. 🎉 Merged PR [#15114](https://github.com/alibaba/nacos/pull/15114) in [alibaba/nacos](https://github.com/alibaba/nacos)
+1. 🎉 Merged PR [#34](https://github.com/nacos-group/nacos-setup/pull/34) in [nacos-group/nacos-setup](https://github.com/nacos-group/nacos-setup)
+2. 🗣 Commented on [#15173](https://github.com/alibaba/nacos/issues/15173#issuecomment-4484681293) in [alibaba/nacos](https://github.com/alibaba/nacos)
+3. 💪 Opened PR [#34](https://github.com/nacos-group/nacos-setup/pull/34) in [nacos-group/nacos-setup](https://github.com/nacos-group/nacos-setup)
+4. 🎉 Merged PR [#12](https://github.com/cxhello/nacos-sdk-proto/pull/12) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
+5. 💪 Opened PR [#12](https://github.com/cxhello/nacos-sdk-proto/pull/12) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
+6. 🎉 Merged PR [#15117](https://github.com/alibaba/nacos/pull/15117) in [alibaba/nacos](https://github.com/alibaba/nacos)
+7. 🎉 Merged PR [#11](https://github.com/cxhello/nacos-sdk-proto/pull/11) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
+8. 💪 Opened PR [#11](https://github.com/cxhello/nacos-sdk-proto/pull/11) in [cxhello/nacos-sdk-proto](https://github.com/cxhello/nacos-sdk-proto)
+9. 💪 Opened PR [#15117](https://github.com/alibaba/nacos/pull/15117) in [alibaba/nacos](https://github.com/alibaba/nacos)
+10. 🎉 Merged PR [#15111](https://github.com/alibaba/nacos/pull/15111) in [alibaba/nacos](https://github.com/alibaba/nacos)
 <!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
