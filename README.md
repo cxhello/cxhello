@@ -11,16 +11,16 @@ Nacos Committer [@alibaba](https://github.com/alibaba) | AI Coding Enthusiast | 
 ## 🖥️ Recently Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/nacos-group/nacos-sdk-proto/pull/8) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
-2. 💪 Opened PR [#8](https://github.com/nacos-group/nacos-sdk-proto/pull/8) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
-3. 🎉 Merged PR [#6](https://github.com/nacos-group/nacos-sdk-proto/pull/6) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
-4. 💪 Opened PR [#6](https://github.com/nacos-group/nacos-sdk-proto/pull/6) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
-5. 💪 Opened PR [#323](https://github.com/nacos-group/nacos-sdk-python/pull/323) in [nacos-group/nacos-sdk-python](https://github.com/nacos-group/nacos-sdk-python)
-6. 🎉 Merged PR [#4](https://github.com/nacos-group/nacos-sdk-proto/pull/4) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
-7. 💪 Opened PR [#4](https://github.com/nacos-group/nacos-sdk-proto/pull/4) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
-8. ❌ Closed PR [#3](https://github.com/nacos-group/nacos-sdk-proto/pull/3) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
-9. 💪 Opened PR [#3](https://github.com/nacos-group/nacos-sdk-proto/pull/3) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
-10. ❌ Closed PR [#2](https://github.com/nacos-group/nacos-sdk-proto/pull/2) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
+1. 💪 Opened PR [#146](https://github.com/nacos-group/nacos-sdk-nodejs/pull/146) in [nacos-group/nacos-sdk-nodejs](https://github.com/nacos-group/nacos-sdk-nodejs)
+2. ❗ Opened issue [#145](https://github.com/nacos-group/nacos-sdk-nodejs/issues/145) in [nacos-group/nacos-sdk-nodejs](https://github.com/nacos-group/nacos-sdk-nodejs)
+3. 🗣 Commented on [#14683](https://github.com/alibaba/nacos/issues/14683#issuecomment-4505458859) in [alibaba/nacos](https://github.com/alibaba/nacos)
+4. 🎉 Merged PR [#26](https://github.com/nacos-group/nacos-sdk-proto/pull/26) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
+5. 💪 Opened PR [#26](https://github.com/nacos-group/nacos-sdk-proto/pull/26) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
+6. 🎉 Merged PR [#24](https://github.com/nacos-group/nacos-sdk-proto/pull/24) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
+7. 💪 Opened PR [#24](https://github.com/nacos-group/nacos-sdk-proto/pull/24) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
+8. 🎉 Merged PR [#22](https://github.com/nacos-group/nacos-sdk-proto/pull/22) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
+9. 💪 Opened PR [#22](https://github.com/nacos-group/nacos-sdk-proto/pull/22) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
+10. 🎉 Merged PR [#20](https://github.com/nacos-group/nacos-sdk-proto/pull/20) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
 <!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
