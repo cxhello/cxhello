@@ -11,16 +11,16 @@ Nacos Committer [@alibaba](https://github.com/alibaba) | AI Coding Enthusiast | 
 ## 🖥️ Recently Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#146](https://github.com/nacos-group/nacos-sdk-nodejs/pull/146) in [nacos-group/nacos-sdk-nodejs](https://github.com/nacos-group/nacos-sdk-nodejs)
-2. ❗ Opened issue [#145](https://github.com/nacos-group/nacos-sdk-nodejs/issues/145) in [nacos-group/nacos-sdk-nodejs](https://github.com/nacos-group/nacos-sdk-nodejs)
-3. 🗣 Commented on [#14683](https://github.com/alibaba/nacos/issues/14683#issuecomment-4505458859) in [alibaba/nacos](https://github.com/alibaba/nacos)
-4. 🎉 Merged PR [#26](https://github.com/nacos-group/nacos-sdk-proto/pull/26) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
-5. 💪 Opened PR [#26](https://github.com/nacos-group/nacos-sdk-proto/pull/26) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
-6. 🎉 Merged PR [#24](https://github.com/nacos-group/nacos-sdk-proto/pull/24) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
-7. 💪 Opened PR [#24](https://github.com/nacos-group/nacos-sdk-proto/pull/24) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
-8. 🎉 Merged PR [#22](https://github.com/nacos-group/nacos-sdk-proto/pull/22) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
-9. 💪 Opened PR [#22](https://github.com/nacos-group/nacos-sdk-proto/pull/22) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
-10. 🎉 Merged PR [#20](https://github.com/nacos-group/nacos-sdk-proto/pull/20) in [nacos-group/nacos-sdk-proto](https://github.com/nacos-group/nacos-sdk-proto)
+1. 💪 Opened PR [#881](https://github.com/nacos-group/nacos-sdk-go/pull/881) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
+2. ℹ️ Labeled issue [#880](https://github.com/nacos-group/nacos-sdk-go/issues/880) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
+3. ℹ️ Labeled issue [#880](https://github.com/nacos-group/nacos-sdk-go/issues/880) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
+4. ❗ Opened issue [#880](https://github.com/nacos-group/nacos-sdk-go/issues/880) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
+5. ℹ️ Labeled issue [#879](https://github.com/nacos-group/nacos-sdk-go/issues/879) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
+6. ℹ️ Labeled issue [#879](https://github.com/nacos-group/nacos-sdk-go/issues/879) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
+7. ❗ Opened issue [#879](https://github.com/nacos-group/nacos-sdk-go/issues/879) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
+8. 💪 Opened PR [#15220](https://github.com/alibaba/nacos/pull/15220) in [alibaba/nacos](https://github.com/alibaba/nacos)
+9. 💪 Opened PR [#7759](https://github.com/kedacore/keda/pull/7759) in [kedacore/keda](https://github.com/kedacore/keda)
+10. ❗ Opened issue [#7758](https://github.com/kedacore/keda/issues/7758) in [kedacore/keda](https://github.com/kedacore/keda)
 <!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
