@@ -11,16 +11,16 @@ Nacos Committer [@alibaba](https://github.com/alibaba) | AI Coding Enthusiast | 
 ## 🖥️ Recently Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#881](https://github.com/nacos-group/nacos-sdk-go/pull/881) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
-2. 🗣 Commented on [#881](https://github.com/nacos-group/nacos-sdk-go/pull/881#issuecomment-4990733892) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
-3. 🗣 Commented on [#505](https://github.com/nacos-group/nacos-docker/issues/505#issuecomment-4976398280) in [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker)
-4. 🗣 Commented on [#505](https://github.com/nacos-group/nacos-docker/issues/505#issuecomment-4976149210) in [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker)
-5. ❗ Opened issue [#1788](https://github.com/larksuite/cli/issues/1788) in [larksuite/cli](https://github.com/larksuite/cli)
-6. 🗣 Commented on [#150](https://github.com/nacos-group/nacos-sdk-nodejs/issues/150#issuecomment-4888896114) in [nacos-group/nacos-sdk-nodejs](https://github.com/nacos-group/nacos-sdk-nodejs)
-7. 🗣 Commented on [#329](https://github.com/nacos-group/nacos-sdk-python/pull/329#issuecomment-4881749331) in [nacos-group/nacos-sdk-python](https://github.com/nacos-group/nacos-sdk-python)
-8. 💪 Opened PR [#329](https://github.com/nacos-group/nacos-sdk-python/pull/329) in [nacos-group/nacos-sdk-python](https://github.com/nacos-group/nacos-sdk-python)
-9. ❗ Opened issue [#328](https://github.com/nacos-group/nacos-sdk-python/issues/328) in [nacos-group/nacos-sdk-python](https://github.com/nacos-group/nacos-sdk-python)
-10. ❌ Closed PR [#314](https://github.com/nacos-group/nacos-sdk-python/pull/314) in [nacos-group/nacos-sdk-python](https://github.com/nacos-group/nacos-sdk-python)
+1. 🗣 Commented on [#897](https://github.com/nacos-group/nacos-sdk-go/pull/897#issuecomment-5001895476) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
+2. 💪 Opened PR [#897](https://github.com/nacos-group/nacos-sdk-go/pull/897) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
+3. ❗ Opened issue [#896](https://github.com/nacos-group/nacos-sdk-go/issues/896) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
+4. 🗣 Commented on [#880](https://github.com/nacos-group/nacos-sdk-go/issues/880#issuecomment-4998404757) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
+5. 🔒 Closed issue [#880](https://github.com/nacos-group/nacos-sdk-go/issues/880) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
+6. 🎉 Merged PR [#881](https://github.com/nacos-group/nacos-sdk-go/pull/881) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
+7. 🗣 Commented on [#881](https://github.com/nacos-group/nacos-sdk-go/pull/881#issuecomment-4990733892) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
+8. 🗣 Commented on [#505](https://github.com/nacos-group/nacos-docker/issues/505#issuecomment-4976398280) in [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker)
+9. 🗣 Commented on [#505](https://github.com/nacos-group/nacos-docker/issues/505#issuecomment-4976149210) in [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker)
+10. ❗ Opened issue [#1788](https://github.com/larksuite/cli/issues/1788) in [larksuite/cli](https://github.com/larksuite/cli)
 <!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
