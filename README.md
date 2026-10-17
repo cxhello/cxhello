@@ -15,16 +15,16 @@ Software Engineer @ Beijing · Nacos Committer [@alibaba](https://github.com/ali
 ## 🖥️ Recently Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#525](https://github.com/nacos-group/nacos-docker/pull/525) in [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker)
-2. 🗣 Commented on [#524](https://github.com/nacos-group/nacos-docker/issues/524#issuecomment-5882805523) in [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker)
-3. 🗣 Commented on [#914](https://github.com/nacos-group/nacos-sdk-go/pull/914#issuecomment-5787798319) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
-4. 🗣 Commented on [#914](https://github.com/nacos-group/nacos-sdk-go/pull/914#issuecomment-5724155555) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
-5. ❗ Opened issue [#9759](https://github.com/makeplane/plane/issues/9759) in [makeplane/plane](https://github.com/makeplane/plane)
-6. 🗣 Commented on [#521](https://github.com/nacos-group/nacos-docker/issues/521#issuecomment-5489920390) in [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker)
-7. 💪 Opened PR [#119](https://github.com/fastclaw-ai/fastclaw/pull/119) in [fastclaw-ai/fastclaw](https://github.com/fastclaw-ai/fastclaw)
-8. ❗ Opened issue [#118](https://github.com/fastclaw-ai/fastclaw/issues/118) in [fastclaw-ai/fastclaw](https://github.com/fastclaw-ai/fastclaw)
-9. 💪 Opened PR [#914](https://github.com/nacos-group/nacos-sdk-go/pull/914) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
-10. ❗ Opened issue [#913](https://github.com/nacos-group/nacos-sdk-go/issues/913) in [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go)
+1. 🗣 Commented on [#537](https://github.com/nacos-group/nacos-k8s/issues/537#issuecomment-6212577041) in [nacos-group/nacos-k8s](https://github.com/nacos-group/nacos-k8s)
+2. 🗣 Commented on [#226](https://github.com/nacos-group/nacos-k8s/issues/226#issuecomment-6210101362) in [nacos-group/nacos-k8s](https://github.com/nacos-group/nacos-k8s)
+3. 🗣 Commented on [#537](https://github.com/nacos-group/nacos-k8s/issues/537#issuecomment-6210705110) in [nacos-group/nacos-k8s](https://github.com/nacos-group/nacos-k8s)
+4. 🗣 Commented on [#260](https://github.com/nacos-group/nacos-k8s/issues/260#issuecomment-6210100344) in [nacos-group/nacos-k8s](https://github.com/nacos-group/nacos-k8s)
+5. 🎉 Merged PR [#538](https://github.com/nacos-group/nacos-k8s/pull/538) in [nacos-group/nacos-k8s](https://github.com/nacos-group/nacos-k8s)
+6. ❗ Opened issue [#539](https://github.com/nacos-group/nacos-k8s/issues/539) in [nacos-group/nacos-k8s](https://github.com/nacos-group/nacos-k8s)
+7. 💪 Opened PR [#526](https://github.com/nacos-group/nacos-docker/pull/526) in [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker)
+8. 🔒 Closed issue [#537](https://github.com/nacos-group/nacos-k8s/issues/537) in [nacos-group/nacos-k8s](https://github.com/nacos-group/nacos-k8s)
+9. ❗ Opened issue [#537](https://github.com/nacos-group/nacos-k8s/issues/537) in [nacos-group/nacos-k8s](https://github.com/nacos-group/nacos-k8s)
+10. 💪 Opened PR [#538](https://github.com/nacos-group/nacos-k8s/pull/538) in [nacos-group/nacos-k8s](https://github.com/nacos-group/nacos-k8s)
 <!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
